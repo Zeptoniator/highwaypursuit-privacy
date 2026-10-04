@@ -25,6 +25,8 @@ Contact : **serge.simono27@gmail.com**
 Ces données restent dans l'espace privé du jeu. Elles ne sont envoyées ni à l'éditeur ni à
 un tiers.
 
+<a id="classement-en-ligne-facultatif"></a>
+
 ## 3. Classement en ligne (facultatif)
 
 Si vous activez **ONLINE SCORES** (écran RECORDS), le jeu publie vos meilleurs scores dans
