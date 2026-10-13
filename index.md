@@ -36,7 +36,7 @@ un classement mondial.
 | --- | --- |
 | Un identifiant anonyme, créé par le jeu à l'activation | Relier vos scores entre eux, sans compte ni adresse e-mail |
 | Trois initiales que vous choisissez (A–Z, 0–9) | Afficher votre ligne dans le classement |
-| Votre meilleur score dans chaque mode (missions, arcade, endless) et l'heure de son envoi | Établir le classement |
+| Votre meilleur score dans chaque mode (missions, arcade, endless) et dans chaque défi du jour que vous jouez (depuis la version 1.4), et l'heure de son envoi | Établir le classement |
 
 - **Base légale** : votre consentement, donné en activant le réglage et retiré en le coupant.
 - **Visibilité** : les initiales et les scores sont **publics** : tous les joueurs les voient.
@@ -102,7 +102,8 @@ analytics. Your settings, records and progress stay in the game's private storag
 
 Since version 1.1 the game offers an **optional online leaderboard, off by default**. Only if
 you turn on **ONLINE SCORES** does it send an anonymous identifier, three initials you choose
-and your best score per mode, which are **public** in the leaderboard. They are hosted by
+and your best score per mode and per daily challenge played (since version 1.4), which are
+**public** in the leaderboard. They are hosted by
 Google Firebase (scores stored in the EU; the anonymous identifier is handled by Firebase
 Authentication, possibly outside the EU under Google's standard contractual clauses).
 **Turning ONLINE SCORES off erases your scores and your anonymous identifier**; if you
